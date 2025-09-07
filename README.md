@@ -13,99 +13,91 @@ I, **Trizna Danil Vadimovich**, am a professional developer and the creator of *
 I specialize in full-stack development, multimedia integration, and scalable cloud systems.  
 I have expertise in **30+ programming languages**, modern web frameworks, game engines, and server management.
 
-Key skills and experience:  
+**Key skills:**  
 - Multilingual dynamic interfaces (30+ languages)  
 - Interactive multimedia integration  
 - High-load server optimization  
-- Full compliance with copyright and security standards  
-- Deep knowledge of Assembly, C/C++, Python, JavaScript, TypeScript, WebAssembly, and more  
+- Assembly, C, C++, C#, Python, JavaScript, TypeScript, WebAssembly  
 - DevOps automation, CI/CD pipelines, and cloud computing  
 
 ---
 
-## 🔧 Technologies and Stack
+## 🌐 Social Media & Support
 
-### Frontend
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React  
-![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) Vue.js  
-![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) Angular  
-![Svelte](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg) Svelte  
-![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) Tailwind CSS  
-![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) Bootstrap  
-
-### Backend
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js  
-![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) Express  
-![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg) NestJS  
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB  
-![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg) GraphQL  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL  
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL  
-![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) Redis  
-![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) Firebase  
-
-### Servers & Hosting
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS  
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) Azure  
-![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg) Google Cloud  
-![DigitalOcean](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg) DigitalOcean  
-![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) Vercel  
-![Netlify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg) Netlify  
-![Heroku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg) Heroku  
-![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg) Nginx  
-![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg) Apache  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aniplexusa/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniplexusa)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aniplexusa/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/aniplexusa)  
+[![Support Email](https://img.shields.io/badge/Email-support%40aniplex.jp-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@aniplex.jp)  
 
 ---
 
-## 💻 Programming Languages (30+)
+## 📱 Applications
 
-![Assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg) Assembly  
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) C  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) C++  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C#  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java  
-![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg) Kotlin  
-![Ruby](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg) Ruby  
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) PHP  
-![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg) Swift  
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) Go  
-![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg) Rust  
-![Haskell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg) Haskell  
-![Perl](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg) Perl  
-![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg) Lua  
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) Dart  
-![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) R  
-![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg) MATLAB  
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg) SQL  
-![NoSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) NoSQL  
-![Shell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) Shell  
-![PowerShell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg) PowerShell  
-![Objective-C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-original.svg) Objective-C  
-![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg) Scala  
-![Elixir](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg) Elixir  
-![F#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg) F#  
-![COBOL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg) COBOL  
-![Fortran](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg) Fortran  
-![Prolog](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg) Prolog  
+[![iOS](https://img.shields.io/badge/iOS-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/aniplex/id1011896015)  
+[![Android](https://img.shields.io/badge/Android-Google%20Play-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/developer?id=Aniplex)  
+[![Windows](https://img.shields.io/badge/Windows-PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.aniplex.jp/)  
+[![MacOS](https://img.shields.io/badge/MacOS-PC-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.aniplex.jp/)  
 
 ---
 
-## 🌍 Country Flags
+## 🌍 Supported Languages (UI, 30+)
 
-![Ukraine](https://flagcdn.com/w20/ua.png) Ukraine  
-![Japan](https://flagcdn.com/w20/jp.png) Japan  
-![France](https://flagcdn.com/w20/fr.png) France  
-![Germany](https://flagcdn.com/w20/de.png) Germany  
-![USA](https://flagcdn.com/w20/us.png) USA  
+![🇺🇦](https://flagcdn.com/w20/ua.png) Ukraine  
+![🇯🇵](https://flagcdn.com/w20/jp.png) Japan  
+![🇺🇸](https://flagcdn.com/w20/us.png) USA  
+![🇨🇳](https://flagcdn.com/w20/cn.png) China  
+![🇰🇷](https://flagcdn.com/w20/kr.png) South Korea  
+![🇫🇷](https://flagcdn.com/w20/fr.png) France  
+![🇩🇪](https://flagcdn.com/w20/de.png) Germany  
+![🇷🇺](https://flagcdn.com/w20/ru.png) Russia  
+…and more (30+ supported languages)
 
 ---
 
-## 📈 Dynamic Website Stats
+## 💻 30+ Programming Languages (Animated)
+
+| Language | Icon |  
+|----------|------|  
+| Assembly | ![Assembly](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) |  
+| C | ![C](https://media.giphy.com/media/3o6ZsV6ixpYFLVRzYw/giphy.gif) |  
+| C++ | ![C++](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |  
+| C# | ![C#](https://media.giphy.com/media/26gsgI6Ck1Z89ZrXi/giphy.gif) |  
+| Python | ![Python](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |  
+| Java | ![Java](https://media.giphy.com/media/l0HlU5LrRzNQphcXe/giphy.gif) |  
+| JavaScript | ![JavaScript](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) |  
+| TypeScript | ![TypeScript](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |  
+| Ruby | ![Ruby](https://media.giphy.com/media/3o6Zt7t2lO1R6N3tXq/giphy.gif) |  
+| PHP | ![PHP](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif) |  
+| Go | ![Go](https://media.giphy.com/media/l0HlQb0WYYgYg4fCk/giphy.gif) |  
+| Rust | ![Rust](https://media.giphy.com/media/3ohs7Ys9b0PZPaH6uQ/giphy.gif) |  
+| Kotlin | ![Kotlin](https://media.giphy.com/media/l0MYr1O2m16WJdEpm/giphy.gif) |  
+| Swift | ![Swift](https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif) |  
+| Objective-C | ![Objective-C](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) |  
+| SQL | ![SQL](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) |  
+| HTML | ![HTML](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |  
+| CSS | ![CSS](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif) |  
+| Bash | ![Bash](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif) |  
+…and more up to 30+ languages
+
+> All icons have **hover animations** on GitHub badges.
+
+---
+
+## 🔧 Technologies (Frontend & Backend)
+
+| Frontend | Backend |  
+|----------|---------|  
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |  
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |  
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |  
+| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |  
+| ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |  
+
+---
+
+## 📈 Website Stats
 
 ![Visitors](https://img.shields.io/badge/Visitors-1M%2B-blue?style=for-the-badge&logo=google-chrome)  
 ![Time on Site](https://img.shields.io/badge/Time_on_Site-5m30s-green?style=for-the-badge&logo=clock)  
@@ -116,10 +108,11 @@ Key skills and experience:
 
 ## 🏆 Partnership
 
-**Aniplex.jp** is the official partner of **Aniplex Inc.**, fully complying with copyright and quality standards.
+**Aniplex.jp** is the official partner of **Aniplex Inc.**, fully complying with copyright and quality standards.  
+We collaborate on unique content, mobile & desktop applications, and multilingual integration.
 
 ---
 
 ## 🔗 Useful Links
 
-[Home](https://aniplex.jp) | [Anime Catalog](https://aniplex.jp/anime) | [Shop](https://aniplex.jp/shop) | [News](https://aniplex.jp/news) | [About](https://aniplex.jp/about)
+[Home](https://aniplex.jp) | [Anime Catalog](https://aniplex.jp/anime) | [Shop](https://aniplex.jp/shop) | [News](https://aniplex.jp/news) | [About](https://aniplex.jp/about) | [Support](mailto:support@aniplex.jp)
