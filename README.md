@@ -122,12 +122,7 @@ We collaborate on unique content, mobile & desktop applications, and multilingua
 ---
 
 ## 📌 Notes
-
-- All icons and badges use **reliable external links** (Shields.io for technologies, Flagcdn for languages).  
-- README is fully accessible and displays correctly on GitHub in all regions, including Ukraine.  
-- Hover effects are limited to GitHub-supported badge color changes.  
-- The README highlights **30+ programming languages**, **frontend & backend technologies**, **applications**, **social media**, and **site statistics**.
-
+I'm root
 ---
 
 **Created by Trizna Danil Vadimovich** — Full-stack developer, multilingual interface specialist, and sole creator of Aniplex.jp.
