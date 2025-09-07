@@ -1,4 +1,4 @@
-![Background](https://mangabuff.ru/img/manga/posters/angel-po-sosedstvu.jpg)
+![Background](https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken.jpg)
 # 🌟 Trizna Danil Vadimovich — Creator of Aniplex.jp
 
 **Aniplex.jp** is my personal project and the official partner of **Aniplex Inc.**  
