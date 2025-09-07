@@ -43,14 +43,12 @@ I have expertise in **30+ programming languages**, modern web frameworks, game e
 
 ## 🌍 Supported Languages (UI, 30+)
 
-![🇺🇦](https://flagcdn.com/w20/ua.png) Ukraine  
 ![🇯🇵](https://flagcdn.com/w20/jp.png) Japan  
 ![🇺🇸](https://flagcdn.com/w20/us.png) USA  
 ![🇨🇳](https://flagcdn.com/w20/cn.png) China  
 ![🇰🇷](https://flagcdn.com/w20/kr.png) South Korea  
 ![🇫🇷](https://flagcdn.com/w20/fr.png) France  
 ![🇩🇪](https://flagcdn.com/w20/de.png) Germany  
-![🇷🇺](https://flagcdn.com/w20/ru.png) Russia  
 …and more (30+ supported languages)
 
 ---
