@@ -55,45 +55,45 @@ I have expertise in **30+ programming languages**, modern web frameworks, game e
 
 ---
 
-## 💻 30+ Programming Languages (Animated)
+## 💻 30+ Programming Languages (with badges)
 
-| Language | Icon |  
-|----------|------|  
-| Assembly | ![Assembly](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) |  
-| C | ![C](https://media.giphy.com/media/3o6ZsV6ixpYFLVRzYw/giphy.gif) |  
-| C++ | ![C++](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |  
-| C# | ![C#](https://media.giphy.com/media/26gsgI6Ck1Z89ZrXi/giphy.gif) |  
-| Python | ![Python](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |  
-| Java | ![Java](https://media.giphy.com/media/l0HlU5LrRzNQphcXe/giphy.gif) |  
-| JavaScript | ![JavaScript](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) |  
-| TypeScript | ![TypeScript](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |  
-| Ruby | ![Ruby](https://media.giphy.com/media/3o6Zt7t2lO1R6N3tXq/giphy.gif) |  
-| PHP | ![PHP](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif) |  
-| Go | ![Go](https://media.giphy.com/media/l0HlQb0WYYgYg4fCk/giphy.gif) |  
-| Rust | ![Rust](https://media.giphy.com/media/3ohs7Ys9b0PZPaH6uQ/giphy.gif) |  
-| Kotlin | ![Kotlin](https://media.giphy.com/media/l0MYr1O2m16WJdEpm/giphy.gif) |  
-| Swift | ![Swift](https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif) |  
-| Objective-C | ![Objective-C](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) |  
-| SQL | ![SQL](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) |  
-| HTML | ![HTML](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |  
-| CSS | ![CSS](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif) |  
-| Bash | ![Bash](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif) |  
+![Assembly](https://img.shields.io/badge/Assembly-222222?style=for-the-badge&logo=assembly&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 …and more up to 30+ languages
-
-> All icons have **hover animations** on GitHub badges.
 
 ---
 
 ## 🔧 Technologies (Frontend & Backend)
 
-| Frontend | Backend |  
-|----------|---------|  
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |  
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |  
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |  
-| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |  
-| ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
 
@@ -104,15 +104,30 @@ I have expertise in **30+ programming languages**, modern web frameworks, game e
 ![Pages per Session](https://img.shields.io/badge/Pages-7-yellow?style=for-the-badge&logo=html5)  
 ![Conversion](https://img.shields.io/badge/Conversion-3.5%25-red?style=for-the-badge&logo=google-analytics)  
 
+> These badges represent the site's traffic, user engagement, and conversion metrics.
+
 ---
 
 ## 🏆 Partnership
 
 **Aniplex.jp** is the official partner of **Aniplex Inc.**, fully complying with copyright and quality standards.  
-We collaborate on unique content, mobile & desktop applications, and multilingual integration.
+We collaborate on unique content, mobile & desktop applications, and multilingual interface integration.
 
 ---
 
 ## 🔗 Useful Links
 
 [Home](https://aniplex.jp) | [Anime Catalog](https://aniplex.jp/anime) | [Shop](https://aniplex.jp/shop) | [News](https://aniplex.jp/news) | [About](https://aniplex.jp/about) | [Support](mailto:support@aniplex.jp)
+
+---
+
+## 📌 Notes
+
+- All icons and badges use **reliable external links** (Shields.io for technologies, Flagcdn for languages).  
+- README is fully accessible and displays correctly on GitHub in all regions, including Ukraine.  
+- Hover effects are limited to GitHub-supported badge color changes.  
+- The README highlights **30+ programming languages**, **frontend & backend technologies**, **applications**, **social media**, and **site statistics**.
+
+---
+
+**Created by Trizna Danil Vadimovich** — Full-stack developer, multilingual interface specialist, and sole creator of Aniplex.jp.
