@@ -1,3 +1,4 @@
+![Background](https://mangabuff.ru/img/manga/posters/angel-po-sosedstvu.jpg)
 # 🌟 Trizna Danil Vadimovich — Creator of Aniplex.jp
 
 **Aniplex.jp** is my personal project and the official partner of **Aniplex Inc.**  
